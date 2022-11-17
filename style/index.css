@@ -1,0 +1,25 @@
+.navbar-toggler-icon {
+    color: white !important;
+}
+
+
+/* .background_box {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -100px;
+    padding: 200px;
+    opacity: 50%;
+}
+
+
+.overlayText {
+    margin-top: 200px;
+    color: white;
+}   */
+
+.card {
+    margin: auto;
+    margin-top: 10px;
+    width: 60%;
+}
